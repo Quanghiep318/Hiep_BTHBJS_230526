@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Thông Tin Cá Nhân</h1>
+    <h2>Họ Và Tên</h2>
+    <p>Hiện tôi đang sống ở Hà Nội</p>
+    <h2>Sở Thích</h2>
+    <p>Tôi thích đọc sách, chơi game và du lịch</p>
+    <h2>Công Tác</h2>
+    <p>Học viên tại Rekki Academy</p>
+</body>
+</html>
